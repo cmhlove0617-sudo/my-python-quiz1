@@ -1,3 +1,8 @@
+class Quiz:
+    def __init__(self, question, choices, answer):
+        self.question = question
+        self.choices = choices
+        self.answer = answer
 while True:
     print("================================")
     print("       🎯 나만의 퀴즈 게임")
@@ -26,4 +31,3 @@ while True:
         print("⚠️ 잘못된 입력입니다. 1~5 사이의 번호를 입력하세요.")
 
     print()
-    
