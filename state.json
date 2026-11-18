@@ -1,0 +1,69 @@
+{
+  "quizzes": [
+    {
+      "question": "파이썬에서 화면에 글자를 출력하는 함수는?",
+      "choices": [
+        "input()",
+        "print()",
+        "len()",
+        "int()"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "파이썬에서 정수 자료형의 이름은?",
+      "choices": [
+        "str",
+        "bool",
+        "int",
+        "list"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "조건을 판단할 때 사용하는 키워드는?",
+      "choices": [
+        "if",
+        "for",
+        "def",
+        "class"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "리스트의 첫 번째 위치 번호는?",
+      "choices": [
+        "1",
+        "2",
+        "-1",
+        "0"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "키와 값을 묶어서 저장하는 자료형은?",
+      "choices": [
+        "tuple",
+        "dict",
+        "str",
+        "bool"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Python에서 반복할 때 사용하는 키워드는?",
+      "choices": [
+        "print",
+        "input",
+        "for",
+        "int"
+      ],
+      "answer": 3
+    }
+  ],
+  "best_score": 100,
+  "best_result": {
+    "correct": 5,
+    "total": 5
+  }
+}
