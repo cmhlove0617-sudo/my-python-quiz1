@@ -19,3 +19,10 @@ print(score)
 print(name)
 print(age)
 print(score)
+
+
+# 조건문 if 실습
+score = 80
+
+if score >= 60:
+    print("합격입니다!")
